@@ -1,0 +1,6 @@
+﻿
+
+# Query Big-5 Code
+	許功蓋123
+	中文字xyz
+	好用abc
